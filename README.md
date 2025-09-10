@@ -19,6 +19,7 @@ Beeg Downloader is a private and secure tool for downloading adult content with 
 - 💌 [Newsletter](https://serp.ly/@serp/email)
 - 🛒 [Shop](https://serp.ly/@serp/store)
 - 🎓 [Courses](https://serp.ly/@serp/courses)
+- 📚 [Technical Research Documentation](CONTRIBUTING.md)
 
 ## Features
 

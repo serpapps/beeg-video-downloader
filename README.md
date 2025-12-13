@@ -1,4 +1,4 @@
-# Beeg Downloader
+# Beeg Video Downloader App (Browser Extension for Chrome, Firefox, Edge, Brave, Arc, Safari)
 
 > Private and secure adult video downloads with HD quality and fast processing
 
@@ -1662,3 +1662,10 @@ The methodologies and tools documented in this research provide a robust foundat
 **Next Review**: April 2025
 
 </details>
+
+
+​
+## Related
+
+- [Repository](https://github.com/serpapps/beeg-video-downloader)
+- [Gist](https://gist.github.com/devinschumacher/ae212bc92f6e65d530a670282a470e6a)

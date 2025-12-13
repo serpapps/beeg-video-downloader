@@ -1619,9 +1619,3 @@ The methodologies and tools documented in this research provide a robust foundat
 
 </details>
 
-
-​
-## Related
-
-- [Repository](https://github.com/serpapps/beeg-video-downloader)
-- [Gist](https://gist.github.com/devinschumacher/ae212bc92f6e65d530a670282a470e6a)

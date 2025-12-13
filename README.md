@@ -12,19 +12,11 @@ Beeg Downloader is a private and secure tool for downloading adult content with 
 - 🆕 Request features [here](https://github.com/serpapps/beeg-video-downloader/issues)
 
 
-## Features
-
-- HD video downloads
-- Private browsing mode
-- Playlist support
-- Mobile-optimized formats
-- Fast processing
-- Anonymous downloading
-
-
 ## Related
 
-- 📁 Repository [here](https://github.com/serpapps/beeg-video-downloader)
+- [Repository](https://github.com/serpapps/beeg-video-downloader)
+- [Gist](https://gist.github.com/devinschumacher/ae212bc92f6e65d530a670282a470e6a)
+
 
 ---
 
